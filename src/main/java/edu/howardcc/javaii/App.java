@@ -1,4 +1,4 @@
-package org.example;
+package edu.howardcc.javaii;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
@@ -31,7 +31,7 @@ public class App extends Application {
         return fxmlLoader.load();
     }
 
-    public static void main(String[] args) {
+    public static void launchApp() {
         launch();
     }
 
