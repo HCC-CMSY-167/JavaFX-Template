@@ -10,6 +10,7 @@ import java.io.IOException;
 
 /**
  * JavaFX App
+ * DO NOT RUN this file from your IDE! Use Main.java as your entry point. 
  */
 public class App extends Application {
 
